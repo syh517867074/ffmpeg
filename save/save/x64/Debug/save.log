@@ -1,0 +1,13 @@
+﻿  save.cpp
+d:\vs项目\save\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs项目\save\save\save.cpp(85): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs项目\save\save\save.cpp(87): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\vs项目\save\include\libavformat\avformat.h(893): note: 参见“AVStream::codec”的声明
+d:\vs项目\save\save\save.cpp(88): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\vs项目\save\include\libavformat\avformat.h(893): note: 参见“AVStream::codec”的声明
+d:\vs项目\save\save\save.cpp(108): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs项目\save\save\save.cpp(110): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\vs项目\save\include\libavformat\avformat.h(893): note: 参见“AVStream::codec”的声明
+d:\vs项目\save\save\save.cpp(88): warning C4996: 'avcodec_copy_context': 被声明为已否决
+  d:\vs项目\save\include\libavcodec\avcodec.h(4412): note: 参见“avcodec_copy_context”的声明
+  save.vcxproj -> D:\vs项目\save\x64\Debug\save.exe
